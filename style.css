@@ -1,0 +1,70 @@
+body{
+    font-family: 'Rajdhani', sans-serif;
+    background-image: url('background.jpg');
+    color: white;
+    
+}
+
+.container{
+    margin: auto;
+    width: 1300px;
+    padding: 22px;
+}
+
+
+.container input{
+    width: 300px;
+    margin: auto;
+    margin-left: 1%;
+    height: 30px;
+    border-radius: 30px;
+    outline: none;
+    text-align: center;
+    background: rgb(78, 86, 119);
+    color: white;
+    font-size: 18px;
+    
+}
+
+#btn-search{
+    height: 40px;
+    border-radius: 30px;
+    outline: none;
+    text-align: center;
+    cursor: pointer;
+    border: none;
+    
+}
+
+span{
+    float: left;
+    padding: 15px;
+    border: 1px solid gray;
+    margin: 10px;
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    font-size: 18px;
+    
+   
+}
+
+.today{
+    width: 500px;
+    height: 450px;
+    font-size: 22px;
+    background-image: url('tenutna.jpg');
+    opacity: .8;
+    border-radius: 30px;
+}
+.sutra{
+    background-image: url('sutra.jpg');
+    opacity: .8;
+    border-radius: 30px;
+}
+.prekosutra{
+    background-image: url('prekos.jpg');
+    opacity: .8;
+    border-radius: 30px;
+}
+
